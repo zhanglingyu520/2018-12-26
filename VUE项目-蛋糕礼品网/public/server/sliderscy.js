@@ -1,0 +1,1 @@
+module.exports = ['https://m.21cake.com/upload/images/c4d6fcd5cc817bacb06194c6c7c8bc2f.jpg','https://m.21cake.com/upload/images/bcc3cae61f1e82fec28858579a5404e4.jpg','https://m.21cake.com/upload/images/dbb4399b94668716484c2ecd085538e8.jpg'];

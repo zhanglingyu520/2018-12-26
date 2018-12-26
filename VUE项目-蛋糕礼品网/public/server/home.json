@@ -1,0 +1,208 @@
+[{
+  "title": "首页Banner",
+  "template": "sliders",
+  "data": [{
+    "name": "芒果慕斯",
+    "href": "/goods-21.html",
+    "target": "_self",
+    "img_url": "https://m.21cake.com/upload/images/c4d6fcd5cc817bacb06194c6c7c8bc2f.jpg",
+    "sort": 1,
+    "special_effects": "fadeIn"
+  }, {
+    "name": "清境",
+    "href": "/goods-28.html",
+    "target": "_self",
+    "img_url": "https://m.21cake.com/upload/images/bcc3cae61f1e82fec28858579a5404e4.jpg",
+    "sort": 2,
+    "special_effects": "fadeIn"
+  }, {
+    "name": "混合冰淇淋",
+    "href": "/goods-477.html",
+    "target": "_self",
+    "img_url": "https://m.21cake.com/upload/images/dbb4399b94668716484c2ecd085538e8.jpg",
+    "sort": 3,
+    "special_effects": "fadeIn"
+  }]
+}, {
+  "title": "tips",
+  "template": "tips",
+  "data": ["新人首单赠小切块", "满100包邮 ", "全程冷链配送"]
+}, {
+  "title": "首页分类",
+  "template": "classification",
+  "data": [{
+    "ident": "ec81f1e3c1aebd7f5b929e10b06e91bc",
+    "name": "蛋糕",
+    "img_url": "https://m.21cake.com/upload/images/b24fa9c0d277b79493fead122afe8e73.png",
+    "href": "/gallery-index---0---1.html",
+    "target": "_blank",
+    "sort": 1
+  }, {
+    "ident": "cf47f43af1312c03570ce37c348caebf",
+    "name": "周套餐",
+    "img_url": "https://m.21cake.com/upload/images/8ab874d0a3b69d359f5783357eca8cbb.png",
+    "href": "/activity/weekly.html",
+    "target": "_blank",
+    "sort": 2
+  }, {
+    "ident": "c7cdc56eab3ca3db20c2281b87f41973",
+    "name": "企业专区",
+    "img_url": "https://m.21cake.com/upload/images/6d777e1d3aa1681d58ea1640f53e2920.png",
+    "href": "/activity-business_area-index.html",
+    "target": "_blank",
+    "sort": 3
+  }, {
+    "ident": "a2133ea14b0ae9a0b8d71417fa1b8f39",
+    "name": "冰淇淋",
+    "img_url": "https://m.21cake.com/upload/images/929c4fc42766b55fac7ba5092b5b9cb9.png",
+    "href": "/gallery-index---0---5.html",
+    "target": "_blank",
+    "sort": 4
+  }]
+}, {
+  "title": "m站楼层",
+  "template": "floorV2",
+  "data": [{
+    "title": "新品",
+    "href": " /gallery/tag/30.html",
+    "imgUrl": "",
+    "sort": 1,
+    "contents": [{
+      "productId": 1,
+      "name": "浅草",
+      "description": "中国绿茶与爽脆果实",
+      "href": "/goods-750.html",
+      "target": "_blank",
+      "imageUrl": "https://m.21cake.com/upload/images/ffd3f6d6dff7148b287dd7370ba90224.jpg",
+      "price": "298.00",
+      "spec": "2.0磅"
+    }, {
+      "productId": 3,
+      "name": "黑越橘",
+      "description": "黑越橘（野生蓝莓）的天堂",
+      "href": "/goods-19.html",
+      "target": "_blank",
+      "imageUrl": "https://m.21cake.com/upload/images/38511b0b3ee49c0db7a0e9316c2e91db.jpg",
+      "price": "268.00",
+      "spec": "2.0磅"
+
+    }, {
+      "productId": 5,
+      "name": "芒果慕斯",
+      "description": "优质芒果的三种姿态，与青柠酸乳酪夹心",
+      "href": "/goods-21.html",
+      "target": "_blank",
+      "imageUrl": "https://m.21cake.com/upload/images/cf4db0e0c4a15b350a377243bfb87ede.jpg",
+      "price": "298.00",
+      "spec": "2.0磅"
+
+    }]
+  }, {
+    "title": "人气",
+    "href": "gallery/tag/31.html",
+    "imgUrl": "",
+    "sort": 2,
+    "contents": [{
+      "productId": "378",
+      "name": "百利甜情人",
+      "description": "爱尔兰百利甜酒/新西兰奶油/云南玫瑰甘露",
+      "href": "goods-12.html",
+      "target": "_blank",
+      "imageUrl": "https://m.21cake.com/upload/images/de7f5cade140bd0c5a49cb853b8249f1.jpg",
+      "price": "298.00",
+      "spec": "2.0磅"
+    }, {
+      "productId": "9179",
+      "name": "芒果奶油",
+      "description": "坚持自然成熟，应季鲜切芒果",
+      "href": "/goods-472.html",
+      "target": "_blank",
+      "imageUrl": "https://m.21cake.com/upload/images/e780de9efeaf1d9c489347149290c6cb.jpg",
+      "price": "198.00",
+      "spec": "2.0磅"
+    }, {
+      "productId": "264",
+      "name": "榴莲飘飘",
+      "description": "严格捍卫榴莲狂热者的权利",
+      "href": "/goods-9.html",
+      "target": "_blank",
+      "imageUrl": "https://m.21cake.com/upload/images/027544cfa7cca26f8b64edaea2777e5e.jpg",
+      "price": "298.00",
+      "spec": "2.0磅"
+    }, {
+      "productId": "12176",
+      "name": "（彼尔德）黑白巧克力",
+      "description": "白巧克力慕斯的甜，与底部黑巧克力酱的苦",
+      "href": "/goods-702.html",
+      "target": "_blank",
+      "imageUrl": "https://m.21cake.com/upload/images/4941946dc7be2d46028dd54ec4c06bf2.jpg",
+      "price": "298.00",
+      "spec": "2.0磅"
+    }]
+  }, {
+    "title": "生日",
+    "href": "  /gallery/tag/44.html",
+    "imgUrl": "",
+    "sort": 3,
+    "contents": [{
+      "productId": "3090",
+      "name": "冻慕斯与焗芝士",
+      "description": "新鲜奶油慕斯，轻盐味，丰富甜",
+      "href": "/goods-31.html",
+      "target": "_blank",
+      "imageUrl": "https://m.21cake.com/upload/images/d74047720eb172aab252e1a86ae613fe.jpg",
+      "price": "298.00",
+      "spec": "2.0磅"
+    }, {
+      "productId": "8139",
+      "name": "(撒粉生日)黑白巧克力慕斯",
+      "description": "口感冰凉细腻，白巧克力慕斯的甜",
+      "href": "/goods-413.html",
+      "target": "_blank",
+      "imageUrl": "https://m.21cake.com/upload/images/f78bf8701b38c7bbdde40c02ee537c45.jpg",
+      "price": "298.00",
+      "spec": "2.0磅"
+    }]
+  }]
+}, {
+  "title": "廿一客·活动",
+  "template": "activity",
+  "data": [{
+    "remain": "只剩158天",
+    "name": "新客权益",
+    "description": "点击查看",
+    "href": "/magazine/detail/176.html",
+    "target": "_blank",
+    "img_url": "https://m.21cake.com/upload/images/9bfa8ea6a193c5877646c375119515ef.jpg",
+    "sort": 5
+  }]
+}, {
+  "title": "廿一客·文章",
+  "template": "magazine",
+  "data": [{
+    "id": "199",
+    "banner": "https://m.21cake.com/public/images/f3/da/d9/9e3f6e1b288445ee2da7f21cc3e13d8c.jpg",
+    "name": "春季刊 · 茶",
+    "href": "/magazine/detail/199.html",
+    "description": ""
+  }, {
+    "id": "195",
+    "banner": "https://m.21cake.com/public/images/3d/43/9f/25ce5c548005eb49b7b59f1fc3746311.jpg",
+    "name": "春季刊·私享",
+    "href": "/magazine/detail/195.html",
+    "description": ""
+  }, {
+    "id": "186",
+    "banner": "https://m.21cake.com/public/images/32/53/be/e10f0267da7024f026923476510063fe.jpg",
+    "name": "春季刊·蛋糕.JPEG",
+    "href": "/magazine/detail/186.html",
+    "description": ""
+  }, {
+    "id": "182",
+    "banner": "https://m.21cake.com/public/images/b6/58/9b/eeb59753f02331f1d12cd8042ac09eec.jpg",
+    "name": "一月刊·姜",
+    "href": "/magazine/detail/182.html",
+    "description": ""
+  }],
+  "more": "/magazine.html"
+}]
